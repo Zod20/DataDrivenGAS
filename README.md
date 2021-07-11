@@ -1,5 +1,5 @@
 # Data Driven GAS
-Demo project showcasing how GAS in Unreal Engine can use values from external csv files to initialize and calculate values.
+Demo project showcasing how GAS in Unreal Engine can use values from external csv files to initialize and calculate values -
 
 ![image](https://user-images.githubusercontent.com/13594090/125193544-cf63a680-e244-11eb-98a9-f8296185cb1b.png)
 
